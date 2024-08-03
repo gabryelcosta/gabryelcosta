@@ -1,4 +1,4 @@
-<p align="center"><img src="src/resources/images/gabryel.png](https://cdn.discordapp.com/attachments/1266049937603559506/1269102835233062943/teste.png?ex=66aed79e&is=66ad861e&hm=0507fc7f6441a23d27faa912a125dfe2a413cb39e324808a79e601f00888d200&" width="600"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1266049937603559506/1269102835233062943/teste.png?ex=66aed79e&is=66ad861e&hm=0507fc7f6441a23d27faa912a125dfe2a413cb39e324808a79e601f00888d200&" width="600"/></p>
 <p align="center"><a href="https://x.com/GabryelVercoza"><img src="https://img.shields.io/badge/X-404E4D?style=for-the-badge&logoColor=F2F2F2&logo=X"/></a>
 <a href="https://www.linkedin.com/in/gabryel-costa-86620a2a8/"><img src="https://img.shields.io/badge/linkedin-404E4D?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a></p>
 <p align="center">Olá sou o Gabryel Costa apenas um entusiasta da programação.</p>
