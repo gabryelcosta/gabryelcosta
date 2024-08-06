@@ -1,10 +1,2 @@
 node_modules
 .env
-src
-.github
-.prettierignore
-.prettierrc
-package-lock
-package
-README_TEMPLATE
-TUTORIAL
