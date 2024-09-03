@@ -8,34 +8,34 @@
 * Gabryel Costa, 30 years
 * Full Stack programmer
 * Currently studying React, Ruby and Javascript
-* 1 Year, 5 Months and 2 Days since I started programming
+* 1 Year, 5 Months and 3 Days since I started programming
 
 ## **Skills wall:**
 
-<p align="left"><img src="https://img.shields.io/badge/visual%20studio%20code-616D6C?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/css3-5BBDE7?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/mysql-5BBDE7?logo=mysql&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/github-5BBDE7?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/git-5BBDE7?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/html5-5BBDE7?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/sqlite-616D6C?logo=sqlite&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/docker-5BBDE7?logo=docker&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/markdown-404E4D?logo=markdown&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/styled%20components-404E4D?logo=styled%20components&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/javascript-5BBDE7?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/ruby-404E4D?logo=ruby&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/figma-616D6C?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/python-616D6C?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
+<p align="left"><img src="https://img.shields.io/badge/markdown-404E4D?logo=markdown&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/react-5BBDE7?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/html5-5BBDE7?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/api%20rest-404E4D?logo=api%20rest&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/photoshop-616D6C?logo=adobe-photoshop&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/ruby-404E4D?logo=ruby&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/javascript-5BBDE7?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/styled%20components-404E4D?logo=styled%20components&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/express.js-404E4D?logo=express&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/python-404E4D?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/node.js-5BBDE7?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/express.js-616D6C?logo=express&style=for-the-badge&logoColor=F2F2F2"/></p>
+<img src="https://img.shields.io/badge/mysql-5BBDE7?logo=mysql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/figma-404E4D?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/sqlite-404E4D?logo=sqlite&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/photoshop-404E4D?logo=adobe-photoshop&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/git-5BBDE7?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github-5BBDE7?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/css3-5BBDE7?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/docker-5BBDE7?logo=docker&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/visual%20studio%20code-616D6C?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/></p>
 
 ## **Recent projects:**
 
-<a href="https://github.com/gabryelcosta/Santander-Coders-2024-landing-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabryelcosta&repo=Santander-Coders-2024-landing-page&title_color=5BBDE7&text_color=F2F2F2&bg_color=616D6C&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gabryelcosta/gabryelcosta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabryelcosta&repo=gabryelcosta&title_color=5BBDE7&text_color=F2F2F2&bg_color=616D6C&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/gabryelcosta/Santander-Coders-2024-landing-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabryelcosta&repo=Santander-Coders-2024-landing-page&title_color=5BBDE7&text_color=F2F2F2&bg_color=616D6C&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gabryelcosta/foodexplorer_api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabryelcosta&repo=foodexplorer_api&title_color=5BBDE7&text_color=F2F2F2&bg_color=616D6C&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gabryelcosta/foodexplorer_Web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabryelcosta&repo=foodexplorer_Web&title_color=5BBDE7&text_color=F2F2F2&bg_color=616D6C&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gabryelcosta/autenticao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gabryelcosta&repo=autenticao&title_color=5BBDE7&text_color=F2F2F2&bg_color=616D6C&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
@@ -53,7 +53,7 @@
 
 *Showcases a random GitHub follower here everyday*
 
-<a href="https://github.com/AbdeenM" alt="Abdeen Mohamed"><img style="height:150px;" src="./src/resources/images/randomFollower.png" alt="Follower of the day"/></a>
+<a href="https://github.com/Kwynto" alt="Constantine Zavezeon"><img style="height:150px;" src="./src/resources/images/randomFollower.png" alt="Follower of the day"/></a>
 
 <hr>
 
