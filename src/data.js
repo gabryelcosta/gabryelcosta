@@ -18,7 +18,7 @@ module.exports = {
       src: 'src/resources/images/gabryel.png',
       width: 600,
     },
-    description: "Olá sou o Gabryel Costa apenas um entusiasta da programação.",
+    description: "Olá! Sou um entusiasta do desenvolvimento frontend com habilidades em HTML, CSS, JavaScript e React. Estudante de Análise e Desenvolvimento de Sistemas, busco aplicar e expandir meu conhecimento em um estágio desafiador. ",
     badges: [
       {
         type: 'badge',
