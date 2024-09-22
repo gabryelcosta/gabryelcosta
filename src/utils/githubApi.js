@@ -24,7 +24,7 @@ async function GithubRequest(url) {
   }
 }
 
-async function getRandomFollower(username) {
+async function getLastFollower(username) {
   const response = await fetch(`https://api.github.com/users/${username}/followers`);
   const followers = await response.json();
   console.log(`Fetching followers for user: ${username}`);
@@ -35,9 +35,7 @@ async function getRandomFollower(username) {
     return null;
   }
 
-  const randomIndex = Math.floor(Math.random() * followers.length);
-  const follower = followers[randomIndex];
-
+  const follower = followers[followers.length - 1];
 
   const followerDetailsResponse = await fetch(follower.url);
   const followerDetails = await followerDetailsResponse.json();
@@ -51,4 +49,4 @@ async function getRepositories(user) {
   return repositories;
 }
 
-module.exports = { getRandomFollower, getRepositories };
+module.exports = { getLastFollower, getRepositories };

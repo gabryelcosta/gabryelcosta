@@ -23,7 +23,7 @@
 
 *Showcases a random GitHub follower here everyday*
 
-%{randomFollower}
+%{lastFollower}
 
 <hr>
 
