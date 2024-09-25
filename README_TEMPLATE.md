@@ -19,9 +19,7 @@
 
 %{socialMedias}
 
-## **Follower of the day**
-
-*Showcases a random GitHub follower here everyday*
+## **Last follower**
 
 %{lastFollower}
 
