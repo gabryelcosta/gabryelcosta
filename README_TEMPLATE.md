@@ -19,9 +19,9 @@
 
 %{socialMedias}
 
-## **Last follower**
+## **Random follower**
 
-%{lastFollower}
+%{randomFollower}
 
 <hr>
 

@@ -28,7 +28,8 @@ const replacers = fs
     }
 
     const updatedMd = await replaceAsync(content, replacementRegex, async (e) => {
-      return await replacers[e.slice(2, -1)](data);
+      const result = await replacers[e.slice(2, -1)](data);
+      return result;
     });
 
     fs.writeFile('README.md', updatedMd, 'utf-8', (err) => {

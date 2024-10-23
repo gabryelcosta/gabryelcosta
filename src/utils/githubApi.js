@@ -24,22 +24,30 @@ async function GithubRequest(url) {
   }
 }
 
-async function getLastFollower(username) {
-  const response = await fetch(`https://api.github.com/users/${username}/followers`);
-  const followers = await response.json();
-  console.log(`Fetching followers for user: ${username}`);
-  console.log(`Followers fetched: ${followers.length}`);
+async function getRandomFollower(username) {
+  const userResponse = await fetch(`https://api.github.com/users/${username}`);
+  const user = await userResponse.json();
+  const totalFollowers = user.followers;
+  console.log(`Total de seguidores para o usuário ${username}: ${totalFollowers}`);
 
-  if (followers.length === 0) {
+  if (totalFollowers === 0) {
     console.warn(`No followers found for user: ${username}`);
     return null;
   }
 
-  const follower = followers[followers.length - 1];
+  const perPage = 30;
+  const totalPages = Math.ceil(totalFollowers / perPage);
+
+  const randomPage = Math.floor(Math.random() * totalPages) + 1;
+
+  const response = await fetch(`https://api.github.com/users/${username}/followers?per_page=${perPage}&page=${randomPage}`);
+  const followers = await response.json();
+
+  const randomIndex = Math.floor(Math.random() * followers.length);
+  const follower = followers[randomIndex];
 
   const followerDetailsResponse = await fetch(follower.url);
   const followerDetails = await followerDetailsResponse.json();
-  console.log('Detalhes do seguidor:', followerDetails);
 
   return followerDetails;
 }
@@ -49,4 +57,4 @@ async function getRepositories(user) {
   return repositories;
 }
 
-module.exports = { getLastFollower, getRepositories };
+module.exports = { getRandomFollower, getRepositories };

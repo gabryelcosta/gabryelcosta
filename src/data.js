@@ -5,7 +5,7 @@ const { colors } = require('./theme');
 
 module.exports = {
   user: 'gabryelcosta',
-  startedProgramming: '02/03/2023',
+  startedProgramming: '02/03/2021',
   repoQuantity: 5,
   header: {
     styles: {
@@ -18,7 +18,7 @@ module.exports = {
       src: 'src/resources/images/gabryel.png',
       width: 600,
     },
-    description: "Olá! Sou um entusiasta do desenvolvimento frontend com habilidades em HTML, CSS, JavaScript e React. Estudante de Análise e Desenvolvimento de Sistemas, busco aplicar e expandir meu conhecimento em um estágio desafiador. ",
+    description: "Olá! Sou um entusiasta do desenvolvimento frontend com habilidades em HTML, CSS, JavaScript e React. Estudante de Análise e Desenvolvimento de Sistemas, busco aplicar e expandir meu conhecimento.",
     badges: [
       {
         type: 'badge',
@@ -61,6 +61,8 @@ module.exports = {
       { name: 'Visual Studio Code'},
       { name: 'Docker', isHighlighted: true },
       { name: 'MySQL', isHighlighted: true },
+      { name: 'PHP', isHighlighted: true },
+      { name: 'TypeScript', isHighlighted: true },
       { name: 'Ruby'},
       { name: 'API REST'},
     ],
