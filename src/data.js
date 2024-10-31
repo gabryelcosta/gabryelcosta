@@ -28,7 +28,7 @@ module.exports = {
       {
         type: 'badge',
         name: 'linkedin',
-        href: 'https://www.linkedin.com/in/gabryel-costa-86620a2a8/',
+        href: 'https://www.linkedin.com/in/gabryelcosta',
       },
     ],
   },
@@ -90,7 +90,7 @@ module.exports = {
       },
       {
         name: 'linkedin',
-        href: 'https://www.linkedin.com/in/gabryel-costa-86620a2a8/',
+        href: 'https://www.linkedin.com/in/gabryelcosta',
       },
       {
         name: 'email',
